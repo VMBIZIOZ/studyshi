@@ -1,0 +1,45 @@
+body, html {
+    text-align: center;
+    background-image: url(winda2.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.pikcha {
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    border-color: azure;
+    border-radius: 200px;
+}
+
+#vmbis {
+    color: #0000CD;
+    background-color: azure;
+    display: inline;
+    padding: 10px 10px;
+    border-radius: 5px 30px 30px 5px;
+}
+
+.text1 {
+    font-size: 150%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: azure;
+    border-radius: 11px;
+    width: 600px;
+    height: 80px;
+}
+
+.text2 {
+    font-size: 150%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: azure;
+    border-radius: 11px;
+    width: 600px;
+    height: 40px;
+}
+
+#pizda {
+    margin: 0 auto;
+    width: 40%;
+}
